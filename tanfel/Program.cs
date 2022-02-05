@@ -13,6 +13,8 @@
         static List<Tanfel> felosztas = new List<Tanfel>();
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            
             //1. feladat
             Beolvas();
 

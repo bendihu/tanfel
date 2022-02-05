@@ -8,7 +8,7 @@
         public int HetiOraszam { get; set; }
 
     }
-    class Program
+    public class Program
     {
         static List<Tanfel> felosztas = new List<Tanfel>();
         static void Main(string[] args)
